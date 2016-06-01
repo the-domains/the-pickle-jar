@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the pickle jar]]></title>
         <description><![CDATA[the pickle jar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-pickle-jar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 18:39:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 20:32:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-pickle-jar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sometimes the world doesn't turn.</p>]]></description>
-            <link>undefinedsometimes-the-world-doesnt-turn/index.html</link>
+            <description><![CDATA[<p>No one wants to read your annual report</p>]]></description>
+            <link>https://thegrid.ai/the-pickle-jar/sometimes-the-world-doesnt-turn/index.html</link>
             <guid isPermaLink="false">5d56cb83-089b-4609-8de4-623175be19cf</guid>
-            <pubDate>Wed, 01 Jun 2016 18:39:00 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 20:31:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
